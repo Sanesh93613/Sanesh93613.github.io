@@ -888,7 +888,8 @@ footer {
       height: 28px; }
       footer .mobile a {
         height: 100%;
-        margin: 0 -20px; }
+        margin: 0 ; }
+        /* some  */
         footer .mobile a img {
           width: 100%;
           height: 100%; }
