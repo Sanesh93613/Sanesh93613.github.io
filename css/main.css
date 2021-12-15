@@ -892,7 +892,8 @@ footer {
         /* some  */
         footer .mobile a img {
           width: 100%;
-          height: 100%; }
+          height: 100%;
+          display: block; }
     footer .sosial_network {
       top: 43%;
       left: 50%;
